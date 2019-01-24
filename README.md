@@ -6,4 +6,4 @@ In this repository you can find Matrix and Metric Factorizations implemented bas
 
 Dataset used is: [MovieLens 100K](https://grouplens.org/datasets/movielens/100k/)
 
-Please note these two implementations are offered without hyperparameter tuning and are prone to some noob TensorFlow mistakes.
+Please note: these two implementations are offered without hyperparameter tuning and are prone to some noob TensorFlow mistakes.
